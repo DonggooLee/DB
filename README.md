@@ -1,2 +1,2 @@
 # DB
-DB_Practice
+DB Practice
